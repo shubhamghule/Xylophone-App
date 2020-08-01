@@ -27,7 +27,7 @@
 ## For developers interested in contribution :
 - Clone or Download the repository.
 - Open it in Android Studio or any other IDE which supports dart.
-- Import the dependencies using "pub-get" commmand.
+- Import the dependencies using "pub-get" command.
 - Make the changes.
 - Test the added features or code changes.
 - Submit a Pull Request.
