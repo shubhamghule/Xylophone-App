@@ -21,7 +21,7 @@
 ## Steps to Run the App :
 - Clone or Download the repository.
 - Open it in Android Studio or any other IDE which supports dart.
-- Import the dependencies using "pub-get" commmand.
+- Import the dependencies using "pub-get" command.
 - Run the main.dart file.
 
 ## For developers interested in contribution :
