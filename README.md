@@ -2,12 +2,12 @@
 
 # Xylophone 🎹
 
-## Goal:
+## Goal :
 - Diving into Dart programming concepts.
 - Learning how to use open source Flutter packages.
 - Trying Flutter packages and building repeated widgets.
 
-## Final Product:
+## Final Product :
 - A music app that plays Xylophone sounds. 
 - For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
 
@@ -18,7 +18,7 @@
 - How to use Dart functions that can take input arguments as well as return an output.
 - Dart arrow syntax for writing one line functions.
 
-## Steps to Run the app :
+## Steps to Run the App :
 - Clone or Download the repository.
 - Open it in Android Studio or any other IDE which supports dart.
 - Import the dependencies using "pub-get" commmand.
